@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: forReferance(hidden)
+    uniqueID: 541649621
+    locked: 0
+  - name: chessboard
+    uniqueID: 3696686947
+    locked: 0
+  - name: pieces
+    uniqueID: 954865347
+    locked: 0
+  - name: ui
+    uniqueID: 848017587
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ui text
+    uniqueID: 3651205963
+    locked: 0
